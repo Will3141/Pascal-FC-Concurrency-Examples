@@ -4,7 +4,7 @@
 Pascal-FC is a teaching language which provides many of the concurrency primitives found in other languages such as Ada and Occam. Having these constructs in a single language allows for them to be more easily compared and contrasted, using consistent syntactic constructs. Downloads for implementations on a range of OS's can be found [here](https://www-users.cs.york.ac.uk/burns/pf.html).
 
 ## Example Programs
-The motivations behind each program is detailed below.
+The motivations behind each program are detailed below.
 
 ### ConcurrentTotalOrdering.pas
 **Construct(s):**  cobegin ... coend
